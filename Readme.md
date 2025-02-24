@@ -15,4 +15,7 @@ and provides **interactive visualizations** for customer retention insights.
 ---
 
 ## 📦 Installation
+```sh
+https://github.com/Hem643/Skyward
+cd your-repo
 
