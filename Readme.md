@@ -16,7 +16,3 @@ and provides **interactive visualizations** for customer retention insights.
 
 ## 📦 Installation
 
-### **1️⃣ Clone the Repository**
-```sh
-git clone https://github.com/your-repo.git
-cd your-repo
